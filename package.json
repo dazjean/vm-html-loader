@@ -1,7 +1,7 @@
 {
   "name": "vm-html-loader",
   "version": "1.0.0",
-  "description": "Description ",
+  "description": "java-velocity render to html with webpack ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
