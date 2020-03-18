@@ -1,0 +1,30 @@
+{
+  "name": "vm-html-loader",
+  "version": "1.0.0",
+  "description": "Description ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazjean/vm-html-loader.git"
+  },
+  "keywords": [
+    "vm-loader",
+    "velocity",
+    "webpack"
+  ],
+  "author": "dazjean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dazjean/vm-html-loader/issues"
+  },
+  "homepage": "https://github.com/dazjean/vm-html-loader#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "loader-utils": "^2.0.0",
+    "request-promise": "^4.2.5",
+    "velocityjs": "^2.0.0"
+  }
+}
